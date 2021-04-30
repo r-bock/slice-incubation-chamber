@@ -13,5 +13,6 @@ The version *3 D* has the following design:
 
 The print material for the chamber is [PETG](https://www.acmeplastics.com/what-is-petg), which is considered food-safe. This is a critical aspect to keep slices alive in an experimental setting.
 
-These files are copyrighted 2021 by R. Bock and is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) <br />
+These files are copyrighted 2021 by R. Bock and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
