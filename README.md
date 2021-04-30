@@ -7,7 +7,7 @@ which shows small modifications to the previous version based on specific prefer
 
 The version *3 D* has the following design: 
 
-<img src="./images/incubator_v3d_chamber.png" alt="incubation chamber" width="15%" height="15%" />   <img src="./images/incubator_v3d_grid.png" alt="slice incubation grid" width="14%" height="14%" />
+<img src="./images/incubator_v3d_chamber.png" alt="incubation chamber" width="25%" height="25%" />   <img src="./images/incubator_v3d_grid.png" alt="slice incubation grid" width="25%" height="25%" />
 
 ## Materials
 
