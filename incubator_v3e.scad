@@ -152,7 +152,7 @@ module chamber() {
 
 gridR = cradius-cwall-0.5;
 barThick = 1.5;		// thickness of the bar in mm
-bDist = 1.5;			// distance between bars in mm
+bDist = 2;			// distance between bars in mm
 tol = 1;			// tolerance, i.e. how far away from the border
 fBorder = 2;		// frameborder in mm
 
